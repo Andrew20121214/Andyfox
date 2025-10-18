@@ -12,7 +12,7 @@
 [![Crowdin](https://badges.crowdin.net/zen-browser/localized.svg)](https://crowdin.com/project/zen-browser)
 [![Zen Release builds](https://github.com/zen-browser/desktop/actions/workflows/build.yml/badge.svg?branch=stable)](https://github.com/zen-browser/desktop/actions/workflows/build.yml)
 
-Zen is a firefox-based browser with the aim of pushing your productivity to a new level!
+AndyFox is a firefox-based browser Being Devolped By A Student !
 
 <div flex="true">
   <a href="https://zen-browser.app/download">
